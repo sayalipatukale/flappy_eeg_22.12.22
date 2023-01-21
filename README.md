@@ -1,1 +1,1 @@
-# flappy_eeg_22.12.22
+# flappy bird
